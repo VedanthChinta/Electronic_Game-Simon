@@ -1,2 +1,3 @@
 # Electronic_Game-Simon
-Used JQuery, HTML, CSS to replicate the famous Simon game!
+• Leveraged JavaScript, jQuery, HTML, and CSS to create a fun, interactive version of the Simon game
+• Implemented sound effects to increase accessibility for those with color vision impairment
